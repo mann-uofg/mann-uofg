@@ -17,6 +17,7 @@
 ### 🖥 Skills
 
 - Artificial Intelligence
+- Neural Networks
 - Software Development
 - Machine Learning
 - Full Stack

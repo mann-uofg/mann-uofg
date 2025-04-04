@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mann-uofg/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mannn.himself/)](https://www.instagram.com/mannn.himself)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:modim@uoguelph.ca)
+![Spotify](https://img.shields.io/badge/-Spotify)
+
 
 [![Github](https://img.shields.io/github/followers/mann-uofg?label=Follow&style=social)](https://github.com/mann-uofg)
 

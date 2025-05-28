@@ -7,6 +7,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/mann-uofg?label=Follow&style=social)](https://github.com/mann-uofg)
+![](https://komarev.com/ghpvc/?username=mann-uofg)
 
 - 💻 I am an International student from India, who is an aspired developer.
 - 🤔 I'm currently working on projects which can be helpful in our day-to-day life.

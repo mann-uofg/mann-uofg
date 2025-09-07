@@ -1,31 +1,52 @@
 # Mann Modi
 
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Mann%20Modi&fontSize=70&fontAlignY=35&desc=Building%20AI-Powered%20Solutions&descAlignY=55&animation=fadeIn)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mann-uofg/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mannn.himself/)](https://www.instagram.com/mannn.himself)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:modim@uoguelph.ca)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mann-uofg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mannn.himself"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="mailto:modim@uoguelph.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/mann-uofg"><img src="https://img.shields.io/github/followers/mann-uofg?logo=github&style=for-the-badge"/></a>
+  </p>
+  
+  <p align="center">
+    <i>Computer Engineering student at University of Guelph</i><br>
+    <i>Passionate AI developer crafting solutions for everyday challenges</i>
+  </p>
+</div>
 
+<hr>
 
-[![Github](https://img.shields.io/github/followers/mann-uofg?label=Follow&style=social)](https://github.com/mann-uofg)
-![](https://komarev.com/ghpvc/?username=mann-uofg)
+## 💫 About Me
 
-- 💻 I am an International student from India, who is an aspired developer.
-- 🤔 I'm currently working on projects which can be helpful in our day-to-day life.
-- 🌱 I am currently enrolled in Bachelor of Engineering in Computer Engineering at the University of Guelph.
-- 📫 How to reach me: modim@uoguelph.ca
+```python
+class MannModi:
+    def __init__(self):
+        self.education = "B.Eng Computer Engineering @ University of Guelph"
+        self.origin = "India"
+        self.interests = ["AI", "FinTech", "Software Development"]
+        self.current_focus = "Building practical AI solutions for everyday problems"
+        self.contact = "modim@uoguelph.ca"
 
+    def greet(self):
+        return "Thanks for visiting my profile! Let's create something amazing together."
+```
 
-### 🖥 Skills
+## 🛠️ My Tech Universe
 
-- Artificial Intelligence
-- Neural Networks
-- Software Development
-- Machine Learning
-- FinTech
-### ⚙️ Tech Stack
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> </div>
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=332f2f) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&color=332f2f)
+## 🌟 Core Competencies
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br> <b>AI & ML</b> </td> <td align="center">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60"/><br> <b>Neural Networks</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br> <b>Software Dev</b> </td> <td align="center"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60" height="60"/><br> <b>Web Development</b> </td> <td align="center"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60"/><br> <b>FinTech</b> </td> </tr> </table>
 
-### 🎵 Now Playing
+## 🎯 Current Focus
+I'm developing AI applications that solve real-world problems and enhance our daily lives. My projects combine cutting-edge machine learning with practical utility.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31swbdznocdxsac2r4eo6dibr7wu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31swbdznocdxsac2r4eo6dibr7wu&redirect=true)
+## 🎵 Soundtrack to My Coding
+<div align="center">
+
+<img alt="spotify-github-profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31swbdznocdxsac2r4eo6dibr7wu&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true">
+</div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=mann-uofg&style=for-the-badge&color=blueviolet" alt="Profile views"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer"/> </div> 

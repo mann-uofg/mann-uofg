@@ -1,21 +1,23 @@
 # Mann Modi  
 
 <div align="center">  
-  <h3>👋 Hey, I'm Mann</h3>  
-  <p>Computer Engineering student at the University of Guelph<br>  
-  Building AI-powered solutions for real-world problems</p>  
+  <h2>👋 Hey, I'm Mann.</h2>  
+  <p><b>Computer Engineering student @ University of Guelph</b><br>  
+  Passionate about building solutions that make life easier.</p>  
 
-  <a href="https://www.linkedin.com/in/mann-uofg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>  
-  <a href="mailto:modim@uoguelph.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>  
-  <a href="https://github.com/mann-uofg"><img src="https://img.shields.io/github/followers/mann-uofg?style=flat&logo=github"/></a>  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mann-uofg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="mailto:modim@uoguelph.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://github.com/mann-uofg"><img src="https://img.shields.io/github/followers/mann-uofg?style=for-the-badge&logo=github"/></a>
+  </p>
 </div>  
 
 ---
 
 ## 💡 About Me  
-- 🎓 B.Eng Computer Engineering @ University of Guelph  
-- 🤖 Passionate about AI, FinTech, and software development  
-- 🔭 Currently building practical AI tools that simplify everyday life  
+- 🎓 Studying **Computer Engineering** at the University of Guelph  
+- 🤖 Exploring **AI, FinTech, and Software Development**  
+- 🔭 Focused on creating **practical tools** with real-world impact  
 
 ---
 
@@ -30,12 +32,7 @@
 
 ---
 
-## 🚀 Current Focus  
-I’m exploring how AI can be applied to **real-world, human-centered problems** — from smart productivity tools to financial applications.  
-
----
-
 <div align="center">  
-  <sub>✨ Let’s connect and build something meaningful ✨</sub><br>  
+  <sub>✨ Thanks for visiting — let’s connect and create something amazing! ✨</sub><br><br>  
   <img src="https://komarev.com/ghpvc/?username=mann-uofg&style=flat&color=blueviolet" alt="Profile views"/>  
 </div>  
